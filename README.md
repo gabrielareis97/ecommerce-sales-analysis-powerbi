@@ -23,7 +23,7 @@ This project presents a dashboard created in Power BI using real data from a Bra
 
 A column chart shows revenue trends from January to December. June and July had the highest revenue peaks, indicating seasonal demand.
 
-![Revenue by Month](./path/to/Screenshot-2025-05-12-143538.png)
+![Revenue by Month](./path/to/revenue_by_month)
 
 ---
 
