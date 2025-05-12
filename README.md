@@ -69,4 +69,4 @@ Table showing quantity sold and total revenue by category, sorted by volume.
 
 **Gabriela dos Reis Barreto**  
 Junior Data Analyst | BI & Visualization | Business-Driven Insights  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) • [GitHub](https://github.com/gabrielareis97)
+[LinkedIn](https://www.linkedin.com/in/gabriela-dos-reis-barreto/) • [GitHub](https://github.com/gabrielareis97)
