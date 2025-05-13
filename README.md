@@ -34,7 +34,7 @@ In May, the total revenue reached **R$ 1.50M**, with an average ticket of **R$ 1
 This could indicate a **seasonal spike such as Mother's day** or a **strong campaign focused on home goods**, and it highlights the importance of tracking monthly category performance to identify strategic timing for promotions.
 
 
-![Revenue by Month](revenue_by_month.png)
+![Revenue by Month]()
 
 ---
 
